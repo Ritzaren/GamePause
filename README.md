@@ -8,9 +8,10 @@ GamePause is a lightweight utility that lets you pause and resume selected games
 - Tray icon with right-click menu:
   - Exit the program
   - Rebuild the whitelist if you’ve updated `games.txt` while running
+  - Rebind the hotkey if needed
 
 ## 📦 Installation
-1. Download the latest release (`GamePause.7z`).
+1. Download the latest release (`GamePause.zip`).
 2. Extract the archive anywhere on your system.
 3. Run `GamePause.exe`.
 
@@ -34,7 +35,7 @@ GTA5_Enhanced
 
 ## 📝 Notes
 - The program must be running in the background for the Pause/Break functionality to work.
-- Use the tray icon to exit or rebuild the whitelist after editing `games.txt`.
+- Use the tray icon to rebind hotkey, exit or rebuild the whitelist after editing `games.txt`.
 
 ## 📄 License
 This project is distributed under a custom license.  
