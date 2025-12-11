@@ -36,6 +36,8 @@ GTA5_Enhanced
 ## 📝 Notes
 - The program must be running in the background for the Pause/Break functionality to work.
 - Use the tray icon to rebind hotkey, exit or rebuild the whitelist after editing `games.txt`.
+- When pausing games during a cinematic, depending on how they are implemented in the game, the audio/video might desync when resuming play. This desync stops when the cinematic ends.
+- This software is only inteded for singleplayer games. Do not use it in online play.
 
 ## 📄 License
 This project is distributed under a custom license.  
